@@ -18,6 +18,7 @@ public class EstudoDesignPatterns {
 		pessoas.forEach(p -> {
 			System.out.println(p);
 		});
+		System.out.println("------------------------------");
 
 	}
 
